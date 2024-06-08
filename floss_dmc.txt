@@ -1,0 +1,489 @@
+3713	Salmon Very Light	#FFE2E2	255	226	226
+761	Salmon Light	#FFC9C9	255	201	201
+760	Salmon	#F5ADAD	245	173	173
+3712	Salmon Medium	#F18787	241	135	135
+3328	Salmon Dark	#E36D6D	227	109	109
+347	Salmon Very Dark	#BF2D2D	191	45	45
+353	Peach	#FED7CC	254	215	204
+352	Coral Light	#FD9C97	253	156	151
+351	Coral	#E96A67	233	106	103
+350	Coral Medium	#E04848	224	72	72
+349	Coral Dark	#D21035	210	16	53
+817	Coral Red Very Dark	#BB051F	187	5	31
+3708	Melon Light	#FFCBD5	255	203	213
+3706	Melon Medium	#FFADBC	255	173	188
+3705	Melon Dark	#FF7992	255	121	146
+3801	Melon Very Dark	#E74967	231	73	103
+666	Bright Red	#E31D42	227	29	66
+321	Red	#C72B3B	199	43	59
+304	Red Medium	#B71F33	183	31	51
+498	Red Dark	#A7132B	167	19	43
+816	Garnet	#970B23	151	11	35
+815	Garnet Medium	#87071F	135	7	31
+814	Garnet Dark	#7B001B	123	0	27
+894	Carnation Very Light	#FFB2BB	255	178	187
+893	Carnation Light	#FC90A2	252	144	162
+892	Carnation Medium	#FF798C	255	121	140
+891	Carnation Dark	#FF5773	255	87	115
+818	Baby Pink	#FFDFD9	255	223	217
+957	Geranium Pale	#FDB5B5	253	181	181
+956	Geranium	#FF9191	255	145	145
+309	Rose Dark	#BA4A4A	86	74	74
+963	Dusty Rose Ultra Very Light	#FFD7D7	255	215	215
+3716	Dusty Rose Medium Very Light	#FFBDBD	255	189	189
+962	Dusty Rose Medium	#E68A8A	230	138	138
+961	Dusty Rose Dark	#CF7373	207	115	115
+3833	Raspberry Light	#EA8699	234	134	153
+3832	Raspberry Medium	#DB556E	219	85	110
+3831	Raspberry Dark	#B32F48	179	47	72
+777	Raspberry Very Dark	#913546	145	53	70
+819	Baby Pink Light	#FFEEEB	255	238	235
+3326	Rose Light	#FBADB4	251	173	180
+776	Pink Medium	#FCB0B9	252	176	185
+899	Rose Medium	#F27688	242	118	136
+335	Rose	#EE546E	238	84	110
+326	Rose Very Dark	#B33B4B	179	59	75
+151	Dusty Rose Very Light	#F0CED4	240	206	212
+3354	Dusty Rose Light	#E4A6AC	228	166	172
+3733	Dusty Rose	#E8879B	232	135	155
+3731	Dusty Rose Very Dark	#DA6783	218	103	131
+3350	Dusty Rose Ultra Dark	#BC4365	188	67	101
+150	Dusty Rose Ultra Very Dark	#AB0249	171	2	73
+3689	Mauve Light	#FBBFC2	251	191	194
+3688	Mauve Medium	#E7A9AC	231	169	172
+3687	Mauve	#C96B70	201	107	112
+3803	Mauve Dark	#AB3357	171	51	87
+3685	Mauve Very Dark	#881531	136	21	49
+605	Cranberry Very Light	#FFC0CD	255	192	205
+604	Cranberry Light	#FFB0BE	255	176	190
+603	Cranberry	#FFA4BE	255	164	190
+602	Cranberry Medium	#E24874	226	72	116
+601	Cranberry Dark	#D1286A	209	40	106
+600	Cranberry Very Dark	#CD2F63	205	47	99
+3806	Cyclamen Pink Light	#FF8CAE	255	140	174
+3805	Cyclamen Pink	#F3478B	243	71	139
+3804	Cyclamen Pink Dark	#E02876	224	40	118
+3609	Plum Ultra Light	#F4AED7	244	174	213
+3608	Plum Very Light	#EA9CC4	234	156	196
+3607	Plum Light	#C54989	197	73	137
+718	Plum	#9C2462	156	36	98
+917	Plum Medium	#9B1359	155	19	89
+915	Plum Dark	#820043	130	0	67
+225	Shell Pink Ultra Very Light	#FFDFD7	255	223	213
+224	Shell Pink Very Light	#EBB7AF	235	183	175
+152	Shell Pink Medium Light	#E2A099	226	160	153
+223	Shell Pink Light	#CC847C	204	132	124
+3722	Shell Pink Medium	#BC6C64	188	108	100
+3721	Shell Pink Dark	#A14B51	161	75	81
+221	Shell Pink Very Dark	#883E43	136	62	67
+778	Antique Mauve Very Light	#DFB3BB	223	179	187
+3727	Antique Mauve Light	#DBA9B2	219	169	178
+316	Antique Mauve Medium	#B7737F	183	115	127
+3726	Antique Mauve Dark	#9B5B66	155	91	102
+315	Antique Mauve Medium Dark	#814952	129	73	82
+3802	Antique Mauve Very Darkv	#714149	113	65	73
+902	Garnet Very Dark	#822637	130	38	55
+3743	Antique Violet Very Light	#D7CBD3	215	203	211
+3042	Antique Violet Light	#B79DA7	183	157	167
+3041	Antique Violet Medium	#956F7C	149	111	124
+3740	Antique Violet Dark	#785762	120	87	98
+3836	Grape Light	#BA91AA	186	145	170
+3835	Grape Medium	#946083	148	96	131
+3834	Grape Dark	#72375D	114	55	93
+154	Grape Very Dark	#572433	87	36	51
+211	Lavender Light	#E3CBE3	227	203	227
+210	Lavender Medium	#D29FC3	195	159	195
+209	Lavender Dark	#A37BA7	163	123	167
+208	Lavender Very Dark	#835B8B	131	91	139
+3837	Lavender Ultra Dark	#6C3A6E	108	58	110
+327	Violet Dark	#633666	99	54	102
+153	Violet Very Light	#E6CCD9	230	204	217
+554	Violet Light	#DBB3CB	219	179	203
+553	Violet	#A3638B	163	99	139
+552	Violet Medium	#803A6B	128	58	107
+550	Violet Very Dark	#5C184E	92	24	78
+3747	Blue Violet Very Light	#D3D7ED	211	215	237
+341	Blue Violet Light	#B7BFDD	183	191	221
+156	Blue Violet Medium Light	#A3AED1	163	174	209
+340	Blue Violet Medium	#ADA7C7	173	167	199
+155	Blue Violet Medium Dark	#9891B6	152	145	182
+3746	Blue Violet Dark	#776B98	119	107	152
+333	Blue Violet Very Dark	#5C5478	92	84	120
+157	Cornflower Blue Very Light	#BBC3D9	187	195	217
+794	Cornflower Blue Light	#8F9CC1	143	156	193
+793	Cornflower Blue Medium	#707DA2	112	125	162
+3807	Cornflower Blue	#60678C	96	103	140
+792	Cornflower Blue Dark	#555B7B	85	91	123
+158	Cornflower Blue Very Dark	#4C526E	76	82	110
+791	Cornflower Blue Very Dark	#464563	70	69	99
+3840	Lavender Blue Light	#B0C0DA	176	192	218
+3839	Lavender Blue Medium	#7B8EAB	123	142	171
+3838	Lavender Blue Dark	#5C7294	92	114	148
+800	Delft Blue Pale	#C0CCDE	192	204	222
+809	Delft Blue	#94A8C6	148	168	198
+799	Delft Blue Medium	#748EB6	116	142	182
+798	Delft Blue Dark	#466A8E	70	106	142
+797	Royal Blue	#13477D	19	71	125
+796	Royal Blue Dark	#11416D	17	65	109
+820	Royal Blue Very Dark	#0E365C	14	54	92
+162	Blue Ultra Very Light	#DBECF5	219	236	245
+827	Blue Very Light	#BDDDED	189	221	237
+813	Blue Light	#A1C2D7	161	194	215
+826	Blue Medium	#6B9EBF	107	158	191
+825	Blue Dark	#4781A5	71	129	165
+824	Blue Very Dark	#396987	57	105	135
+996	Electric Blue Medium	#30C2EC	48	194	236
+3843	Electric Blue	#14AAD0	20	170	208
+995	Electric Blue Dark	#2696B6	38	150	182
+3846	Turquoise Bright Light	#06E3E6	6	227	230
+3845	Turquoise Bright Medium	#04C4CA	4	196	202
+3844	Turquoise Bright Dark	#12AEBA	18	174	186
+159	Blue Gray Light	#C7CAD7	199	202	215
+160	Blue Gray Medium	#999FB7	153	159	183
+161	Blue Gray	#7880A4	120	128	164
+3756	Baby Blue Ultra Very Light	#EEFCFC	238	252	252
+775	Baby Blue Very Light	#D9EBF1	217	235	241
+3841	Baby Blue Pale	#CDDFED	205	223	237
+3325	Baby Blue Light	#B8D2E6	184	210	230
+3755	Baby Blue	#92B4CE	147	180	206
+334	Baby Blue Medium	#739FC1	115	159	193
+322	Baby Blue Dark	#5A8FB8	90	143	184
+312	Baby Blue Very Dark	#35668B	53	102	139
+803	Baby Blue Ultra Very Dark	#2C597C	44	89	124
+336	Navy Blue	#253B73	37	59	115
+823	Navy Blue Dark	#213063	33	48	99
+939	Navy Blue Very Dark	#1B2853	27	40	83
+3753	Antique Blue Ultra Very Light	#DBE2E9	219	226	233
+3752	Antique Blue Very Light	#C7D1DB	199	209	219
+932	Antique Blue Light	#A2B5C6	162	181	198
+931	Antique Blue Medium	#6A859E	106	133	158
+930	Antique Blue Dark	#455C71	69	92	113
+3750	Antique Blue Very Dark	#384C5E	56	76	94
+828	Sky Blue Very Light	#C5E8ED	197	232	237
+3761	Sky Blue Light	#ACD8E2	172	216	226
+519	Sky Blue	#7EB1C8	126	177	200
+518	Wedgewood Light	#4F93A7	79	147	167
+3760	Wedgewood Medium	#3E85A2	62	133	162
+517	Wedgewood Dark	#3B768F	59	118	143
+3842	Wedgewood Very Dark	#32667C	50	102	124
+311	Wedgewood Ultra Very Dark	#1C5066	28	80	102
+747	Peacock Blue Very Light	#E5FCFD	229	252	253
+3766	Peacock Blue Light	#99CFD9	153	207	217
+807	Peacock Blue	#64ABBA	100	171	186
+806	Peacock Blue Dark	#3D95A5	61	149	165
+3765	Peacock Blue Very Dark	#347F8C	52	127	140
+3811	Turquoise Very Light	#BCE3E6	188	227	230
+598	Turquoise Light	#90C3CC	144	195	204
+597	Turquoise	#5BA3B3	91	163	179
+3810	Turquoise Dark	#488E9A	72	142	154
+3809	Turquoise Vy Dark	#3F7C85	63	124	133
+3808	Turquoise Ultra Very Dark	#366970	54	105	112
+928	Gray Green Very Light	#DDE3E3	221	227	227
+927	Gray Green Light	#BDCBCB	189	203	203
+926	Gray Green Medium	#98AEAE	152	174	174
+3768	Gray Green Dark	#657F7F	101	127	127
+924	Gray Green Vy Dark	#566A6A	86	106	106
+3849	Teal Green Light	#52B3AE	82	179	164
+3848	Teal Green Medium	#419392	85	147	146
+3847	Teal Green Dark	#347D75	52	125	117
+964	Sea Green Light	#A9E2D8	169	226	216
+959	Sea Green Medium	#59C7B4	89	199	180
+958	Sea Green Dark	#3EB6A1	62	182	161
+3812	Sea Green Very Dark	#2F8C84	47	140	132
+3851	Green Bright Light	#49B3A1	73	179	161
+943	Green Bright Medium	#3D9384	61	147	132
+3850	Green Bright Dark	#378477	55	132	119
+993	Aquamarine Very Light	#90C0B4	144	192	180
+992	Aquamarine Light	#6FAE9F	111	174	159
+3814	Aquamarine	#508B7D	80	139	125
+991	Aquamarine Dark	#477B6E	71	123	110
+966	Jade Ultra Very Light	#B9D7C0	185	215	192
+564	Jade Very Light	#A7CDAF	167	205	175
+563	Jade Light	#8FC098	143	192	152
+562	Jade Medium	#53976A	83	151	106
+505	Jade Green	#338362	51	131	98
+3817	Celadon Green Light	#99C3AA	153	195	170
+3816	Celadon Green	#65A57D	101	165	125
+163	Celadon Green Medium	#4D8361	77	131	97
+3815	Celadon Green Dark	#477759	71	119	89
+561	Celadon Green VD	#2C6A45	44	106	69
+504	Blue Green Very Light	#C4DECC	196	222	204
+3813	Blue Green Light	#B2D4BD	178	212	189
+503	Blue Green Medium	#7BAC94	123	172	148
+502	Blue Green	#5B9071	91	144	113
+501	Blue Green Dark	#396F52	57	111	82
+500	Blue Green Very Dark	#044D33	4	77	51
+955	Nile Green Light	#A2D6AD	162	214	173
+954	Nile Green	#88BA91	136	186	145
+913	Nile Green Medium	#6DAB77	109	171	119
+912	Emerald Green Light	#1B9D6B	27	157	107
+911	Emerald Green Medium	#189065	24	144	101
+910	Emerald Green Dark	#187E56	24	126	86
+909	Emerald Green Very Dark	#156F49	21	111	73
+3818	Emerald Green Ultra Very Dark	#115A3B	17	90	59
+369	Pistachio Green Very Light	#D7EDCC	215	237	204
+368	Pistachio Green Light	#A6C298	166	194	152
+320	Pistachio Green Medium	#69885A	105	136	90
+367	Pistachio Green Dark	#617A52	97	122	82
+319	Pistachio Grn Very Dark	#205F2E	32	95	46
+890	Pistachio Grn Ultra Very Dark	#184923	23	73	35
+164	Forest Green Light	#C8D8B8	200	216	184
+989	Forest Green	#8DA675	141	166	117
+988	Forest Green Medium	#738B5B	115	139	91
+987	Forest Green Dark	#587141	88	113	65
+986	Forest Green Very Dark	#405230	64	82	48
+772	Yellow Green Very Light	#E4ECD4	228	236	212
+3348	Yellow Green Light	#CCD9B1	204	217	177
+3347	Yellow Green Medium	#71935C	113	147	92
+3346	Hunter Green	#406A3A	64	106	58
+3345	Hunter Green Dark	#1B5915	27	89	21
+895	Hunter Green Very Dark	#1B5300	27	83	0
+704	Chartreuse Bright	#9ECF34	158	207	52
+703	Chartreuse	#7BB547	123	181	71
+702	Kelly Green	#47A72F	71	167	47
+701	Green Light	#3F8F29	63	143	41
+700	Green Bright	#07731B	7	115	27
+699	Green	#056517	5	101	23
+907	Parrot Green Light	#C7E666	199	230	102
+906	Parrot Green Medium	#7FB335	127	179	53
+905	Parrot Green Dark	#628A28	98	138	40
+904	Parrot Green Very Dark	#557822	85	120	34
+472	Avocado Green Ultra Light	#D8E498	216	228	152
+471	Avocado Grn Very Light	#AEBF79	174	191	121
+470	Avocado Grn Light	#94AB4F	148	171	79
+469	Avocado Green	#72843C	114	132	60
+937	Avocado Green Medium	#627133	98	113	51
+936	Avocado Green Very Dark	#4C5826	76	88	38
+935	Avocado Green Dark	#424D21	66	77	33
+934	Avocado Grn Black	#313919	49	57	25
+523	Fern Green Light	#ABB197	171	177	151
+3053	Green Gray	#9CA482	156	164	130
+3052	Green Gray Medium	#889268	136	146	104
+3051	Green Gray Dark	#5F6648	95	102	72
+524	Fern Green Very Light	#C4CDAC	196	205	172
+522	Fern Green	#969E7E	150	158	126
+520	Fern Green Dark	#666D4F	102	109	79
+3364	Pine Green	#83975F	131	151	95
+3363	Pine Green Medium	#728256	114	130	86
+3362	Pine Green Dark	#5E6B47	94	107	71
+165	Moss Green Very Light	#EFF4A4	239	244	164
+3819	Moss Green Light	#E0E868	224	232	104
+166	Moss Green Medium Light	#C0C840	192	200	64
+581	Moss Green	#A7AE38	167	174	56
+580	Moss Green Dark	#888D33	136	141	51
+734	Olive Green Light	#C7C077	199	192	119
+733	Olive Green Medium	#BCB34C	188	179	76
+732	Olive Green	#948C36	148	140	54
+731	Olive Green Dark	#938B37	147	139	55
+730	Olive Green Very Dark	#827B30	130	123	48
+3013	Khaki Green Light	#B9B982	185	185	130
+3012	Khaki Green Medium	#A6A75D	166	167	93
+3011	Khaki Green Dark	#898A58	137	138	88
+372	Mustard Light	#CCB784	204	183	132
+371	Mustard	#BFA671	191	166	113
+370	Mustard Medium	#B89D64	184	157	100
+834	Golden Olive Very Light	#DBBE7F	219	190	127
+833	Golden Olive Light	#C8AB6C	200	171	108
+832	Golden Olive	#BD9B51	189	155	81
+831	Golden Olive Medium	#AA8F56	170	143	86
+830	Golden Olive Dark	#8D784B	141	120	75
+829	Golden Olive Very Dark	#7E6B42	126	107	66
+613	Drab Brown Very Light	#DCC4AA	220	196	170
+612	Drab Brown Light	#BC9A78	188	154	120
+611	Drab Brown	#967656	150	118	86
+610	Drab Brown Dark	#796047	121	96	71
+3047	Yellow Beige Light	#E7D6C1	231	214	193
+3046	Yellow Beige Medium	#D8BC9A	216	188	154
+3045	Yellow Beige Dark	#BC966A	188	150	106
+167	Yellow Beige Very Dark	#A77C49	167	124	73
+746	Off White	#FCFCEE	252	252	238
+677	Old Gold Very Light	#F5ECCB	245	236	203
+422	Hazelnut Brown Light	#C69F7B	198	159	123
+3828	Hazelnut Brown	#B78B61	183	139	97
+420	Hazelnut Brown Dark	#A07042	160	112	66
+869	Hazelnut Brown Very Dark	#835E39	131	94	57
+728	Topaz	#E4B468	228	180	104
+783	Topaz Medium	#CE9124	206	145	36
+782	Topaz Dark	#AE7720	174	119	32
+781	Topaz Very Dark	#A26D20	162	109	32
+780	Topaz Ultra Very Dark	#94631A	148	99	26
+676	Old Gold Light	#E5CE97	229	206	151
+729	Old Gold Medium	#D0A53E	208	165	62
+680	Old Gold Dark	#BC8D0E	188	141	14
+3829	Old Gold Vy Dark	#A98204	169	130	4
+3822	Straw Light	#F6DC98	246	220	152
+3821	Straw	#F3CE75	243	206	117
+3820	Straw Dark	#DFB65F	223	182	95
+3852	Straw Very Dark	#CD9D37	205	157	55
+445	Lemon Light	#FFFB8B	255	251	139
+307	Lemon	#FDED54	253	237	84
+973	Canary Bright	#FFE300	255	227	0
+444	Lemon Dark	#FFD600	255	214	0
+3078	Golden Yellow Very Light	#FDF9CD	253	249	205
+727	Topaz Very Light	#FFF1AF	255	241	175
+726	Topaz Light	#FDD755	253	215	85
+725	Topaz Medium Light	#FFC840	255	200	64
+972	Canary Deep	#FFB515	255	181	21
+745	Yellow Pale Light	#FFE9AD	255	233	173
+744	Yellow Pale	#FFE793	255	231	147
+743	Yellow Medium	#FED376	254	211	118
+742	Tangerine Light	#FFBF57	255	191	87
+741	Tangerine Medium	#FFA32B	255	163	43
+740	Tangerine	#FF8B00	255	139	0
+970	Pumpkin Light	#F78B13	247	139	19
+971	Pumpkin	#F67F00	246	127	0
+947	Burnt Orange	#FF7B4D	255	123	77
+946	Burnt Orange Medium	#EB6307	235	99	7
+900	Burnt Orange Dark	#D15807	209	88	7
+967	Apricot Very Light	#FFDED5	255	222	213
+3824	Apricot Light	#FECDC2	254	205	194
+3341	Apricot	#FCAB98	252	171	152
+3340	Apricot Medium	#FF836F	255	131	111
+608	Burnt Orange Bright	#FD5D35	253	93	53
+606	Orange Red Bright	#FA3203	250	50	3
+951	Tawny Light	#FFE2CF	255	226	207
+3856	Mahogany Ultra Very Light	#FFD3B5	255	211	181
+722	Orange Spice Light	#F7976F	247	151	111
+721	Orange Spice Medium	#F27842	242	120	66
+720	Orange Spice Dark	#E55C1F	229	92	31
+3825	Pumpkin Pale	#FDBD96	253	189	150
+922	Copper Light	#E27323	226	115	35
+921	Copper	#C66218	198	98	24
+920	Copper Medium	#AC5414	172	84	20
+919	Red Copper	#A64510	166	69	16
+918	Red Copper Dark	#82340A	130	52	10
+3770	Tawny Vy Light	#FFEEE3	255	238	227
+945	Tawny	#FBD5BB	251	213	187
+402	Mahogany Very Light	#F7A777	247	167	119
+3776	Mahogany Light	#CF7939	207	121	57
+301	Mahogany Medium	#B35F2B	179	95	43
+400	Mahogany Dark	#8F430F	143	67	15
+300	Mahogany Very Dark	#6F2F00	111	47	0
+3823	Yellow Ultra Pale	#FFFDE3	255	253	227
+3855	Autumn Gold Light	#FAD396	250	211	150
+3854	Autumn Gold Medium	#F2AF68	242	175	104
+3853	Autumn Gold Dark	#F29746	242	151	70
+3827	Golden Brown Pale	#F7BB77	247	187	119
+977	Golden Brown Light	#DC9C56	220	156	86
+976	Golden Brown Medium	#C28142	194	129	66
+3826	Golden Brown	#AD7239	173	114	57
+975	Golden Brown Dark	#914F12	145	79	18
+948	Peach Very Light	#FEE7DA	254	231	218
+754	Peach Light	#F7CBBF	247	203	191
+3771	Terra Cotta Ultra Very Light	#F4BBA9	244	187	169
+758	Terra Cotta Very Light	#EEAA9B	238	170	155
+3778	Terra Cotta Light	#D98978	217	137	120
+356	Terra Cotta Medium	#C56A5B	197	106	91
+3830	Terra Cotta	#BC5544	185	85	68
+355	Terra Cotta Dark	#984436	152	68	54
+3777	Terra Cotta Very Dark	#863022	134	48	34
+3779	Rosewood Ultra Very Light	#F8CAC8	248	202	200
+3859	Rosewood Light	#BA8B7C	186	139	124
+3858	Rosewood Medium	#964A3F	150	74	63
+3857	Rosewood Dark	#68251A	104	37	26
+3774	Desert Sand Very Light	#F3E1D7	243	225	215
+950	Desert Sand Light	#EED3C4	238	211	196
+3064	Desert Sand	#C48E70	196	142	112
+407	Desert Sand Medium	#BB8161	187	129	97
+3773	Desert Sand Dark	#B67552	182	117	82
+3772	Desert Sand Very Dark	#A06C50	160	108	80
+632	Desert Sand Ultra Very Dark	#875539	135	85	57
+453	Shell Gray Light	#D7CECB	215	206	203
+452	Shell Gray Medium	#C0B3AE	192	179	174
+451	Shell Gray Dark	#917B73	145	123	115
+3861	Cocoa Light	#A68881	166	136	129
+3860	Cocoa	#7D5D57	125	93	87
+779	Cocoa Dark	#624B45	98	75	69
+712	Cream	#FFFBEF	255	251	239
+739	Tan Ultra Very Light	#F8E4C8	248	228	200
+738	Tan Very Light	#ECCC9E	236	204	158
+437	Tan Light	#E4BB8E	228	187	142
+436	Tan	#CB9051	203	144	81
+435	Brown Very Light	#B87748	184	119	72
+434	Brown Light	#985E33	152	94	51
+433	Brown Medium	#7A451F	122	69	31
+801	Coffee Brown Dark	#653919	101	57	25
+898	Coffee Brown Very Dark	#492A13	73	42	19
+938	Coffee Brown Ultra Dark	#361F0E	54	31	14
+3371	Black Brown	#1E1108	30	17	8
+543	Beige Brown Ultra Very Light	#F2E3CE	242	227	206
+3864	Mocha Beige Light	#CBB69C	203	182	156
+3863	Mocha Beige Medium	#A4835C	164	131	92
+3862	Mocha Beige Dark	#8A6E4E	138	110	78
+3031	Mocha Brown Very Dark	#4B3C2A	75	60	42
+B5200	Snow White	#FFFFFF	255	255	255
+White	White	#FCFBF8	252	251	248
+3865	Winter White	#F9F7F1	249	247	241
+Ecru	Ecru	#F0EADA	240	234	218
+822	Beige Gray Light	#E7E2D3	231	226	211
+644	Beige Gray Medium	#DDD8CB	221	216	203
+642	Beige Gray Dark	#A49878	164	152	120
+640	Beige Gray Very Dark	#857B61	133	123	97
+3787	Brown Gray Dark	#625D50	98	93	80
+3021	Brown Gray Very Dark	#4F4B41	79	75	65
+3024	Brown Gray Very Light	#EBEAE7	235	234	231
+3023	Brown Gray Light	#B1AA97	177	170	151
+3022	Brown Gray Medium	#8E9078	142	144	120
+535	Ash Gray Very Light	#636458	99	100	88
+3033	Mocha Brown Very Light	#E3D8CC	227	216	204
+3782	Mocha Brown Light	#D2BCA6	210	188	166
+3032	Mocha Brown Medium	#B39F8B	179	159	139
+3790	Beige Gray Ultra Dark	#7F6A55	127	106	85
+3781	Mocha Brown Dark	#6B5743	107	87	67
+3866	Mocha Brown Ultra Very Light	#FAF6F0	250	246	240
+842	Beige Brown Very Light	#D1BAA1	209	186	161
+841	Beige Brown Light	#B69B7E	182	155	126
+840	Beige Brown Medium	#9A7C5C	154	124	92
+839	Beige Brown Dark	#675541	103	85	65
+838	Beige Brown Very Dark	#594937	89	73	55
+3072	Beaver Gray Very Light	#E6E8E8	230	232	232
+648	Beaver Gray Light	#BCB4AC	188	180	172
+647	Beaver Gray Medium	#B0A69C	176	166	156
+646	Beaver Gray Dark	#877D73	135	125	115
+645	Beaver Gray Very Dark	#6E655C	110	101	92
+844	Beaver Gray Ultra Dark	#484848	72	72	72
+762	Pearl Gray Very Light	#ECECEC	236	236	236
+415	Pearl Gray	#D3D3D6	211	211	214
+318	Steel Gray Light	#ABABAB	171	171	171
+414	Steel Gray Dark	#8C8C8C	140	140	140
+168	Pewter Very Light	#D1D1D1	209	209	209
+169	Pewter Light	#848484	132	132	132
+317	Pewter Gray	#6C6C6C	108	108	108
+413	Pewter Gray Dark	#565656	86	86	86
+3799	Pewter Gray Very Dark	#424242	66	66	66
+310	Black	#000000	0	0	0
+01	White Tin	#E3E3E6	227	227	230
+02	Tin	#D7D7D8	215	215	216
+03	Tin Medium	#B8B8BB	184	184	187
+04	Tin Dark	#AEAEB1	174	174	177
+05	Driftwood Light	#E3CCBE	227	204	190
+06	Driftwood Medium Light	#DCC6B8	220	198	184
+07	Driftwood	#8F7B6E	143	123	110
+08	Driftwood Dark	#6A5046	106	80	70
+09	Cocoa Very Dark	#552014	85	32	14
+10	Tender Green Very Light	#EDFED9	237	254	217
+11	Tender Green Light	#E2EDB5	226	237	181
+12	Tender Green	#CDD99A	205	217	154
+13	Nile Green Medium Light	#BFF6E0	191	246	224
+14	Apple Green Pale	#D0FBB2	208	251	178
+15	Apple Green	#D1EDA4	209	237	164
+16	Chartreuse Light	#C9C258	201	194	88
+17	Yellow Plum Light	#E5E272	229	226	114
+18	Yellow Plum	#D9D56D	217	213	109
+19	Autumn Gold medium Light	#F7C95F	247	201	95
+20	Shrimp	#F7AF93	247	175	147
+21	Alizarin Light	#D79982	215	153	130
+22	Alizarin	#BC604E	188	96	78
+23	Apple Blossom	#EDE2ED	237	226	237
+24	White Lavender	#E0D7EE	224	215	238
+25	Lavender Ultra Light	#DAD2E9	218	210	233
+26	Lavender Pale	#D7CAE6	215	202	230
+27	White Violet	#F0EEF9	240	238	249
+28	Eggplant Medium Light	#9086A9	144	134	169
+29	Eggplant	#674076	103	64	118
+30	Blueberry Medium Light	#7D77A5	125	119	165
+31	Blueberry	#50518D	80	81	141
+32	Blueberry Dark	#4D2E8A	77	46	138
+33	Fuschia	#9C599C	156	89	158
+34	Fuschia Dark	#7D3064	125	48	100
+35	Fuschia Very Dark	#46052D	70	5	45
